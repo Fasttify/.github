@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fasttify/fasttify/blob/main/LICENSE">
+  <a href="https://github.com/Fasttify/.github/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
   </a>
   <a href="https://discord.gg/fasttify">
@@ -47,4 +47,4 @@ Fasttify te permite crear y personalizar tu tienda online sin complicaciones. Co
 
 ## Licencia
 
-Distribuido bajo la [Licencia MIT](https://github.com/fasttify/fasttify/blob/main/LICENSE).
+Distribuido bajo la [Licencia MIT](https://github.com/Fasttify/.github/blob/main/LICENSE).
