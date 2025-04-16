@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://fasttify.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://your-dark-logo-url.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://your-light-logo-url.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.dev.fasttify.com/icons/fast@4x.webp">
+      <source media="(prefers-color-scheme: light)" srcset="https://www.dev.fasttify.com/icons/fast@4x.webp">
       <img alt="Fasttify logo" src="https://your-light-logo-url.svg" width="200" />
     </picture>
   </a>
