@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://www.dev.fasttify.com/icons/fast@4x.webp">
       <source media="(prefers-color-scheme: light)" srcset="https://www.dev.fasttify.com/icons/fast@4x.webp">
-      <img alt="Fasttify logo" src="https://your-light-logo-url.svg" width="200" />
+      <img alt="Fasttify logo" src="https://your-light-logo-url.svg" width="100" />
     </picture>
   </a>
 </p>
