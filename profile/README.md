@@ -17,7 +17,7 @@
 </h4>
 
 <p align="center">
-  Plataforma de comercio electrónico moderna, flexible y pensada para crecer contigo.
+Plataforma de comercio electrónico flexible y escalable, diseñada para facilitar la creación y gestión de tiendas online personalizadas. Ofrece herramientas poderosas para vendedores y una experiencia optimizada para clientes.
 </p>
 
 <p align="center">
