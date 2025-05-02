@@ -35,16 +35,6 @@ Plataforma de comercio electrónico flexible y escalable, diseñada para facilit
 
 Fasttify te permite crear y personalizar tu tienda online sin complicaciones. Control total, diseño profesional y herramientas listas para crecer con tu negocio.
 
----
-
-## Recursos
-
-- [Sitio web](https://fasttify.com)  
-- [Documentación](https://fasttify.com/docs)  
-- [Comunidad](https://discord.gg/fasttify)
-
----
-
 ## Licencia
 
 Distribuido bajo la [Licencia MIT](https://github.com/Fasttify/.github/blob/main/LICENSE).
