@@ -10,12 +10,6 @@
 
 <h1 align="center">Fasttify</h1>
 
-<h4 align="center">
-  <a href="https://fasttify.com">Website</a> |
-  <a href="https://fasttify.com/docs">Docs</a> |
-  <a href="https://twitter.com/fasttify">Twitter</a>
-</h4>
-
 <p align="center">
 Plataforma de comercio electrónico flexible y escalable, diseñada para facilitar la creación y gestión de tiendas online personalizadas. Ofrece herramientas poderosas para vendedores y una experiencia optimizada para clientes.
 </p>
