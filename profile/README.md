@@ -18,9 +18,6 @@ Plataforma de comercio electrónico flexible y escalable, diseñada para facilit
   <a href="https://github.com/Fasttify/.github/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
   </a>
-  <a href="https://discord.gg/fasttify">
-    <img src="https://img.shields.io/badge/Comunidad-Discord-7289DA.svg" alt="Discord" />
-  </a>
 </p>
 
 ---
